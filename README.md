@@ -1,7 +1,9 @@
 <h1 align="center">Ayomide Ojediran</h1>
 <p align="center">
   1st Year Computer Science Student @ The University of Manchester
-  Incoing Software Engineer intern @ Compare The Market(2026)
+</p>
+<p align="center"> 
+ Incoming Software Engineer intern @ Compare The Market(2026)
 </p>
 
 
@@ -14,7 +16,7 @@
 
 ## Achievements
 - **Imperial College Algothon 2026** — 1st Place (Jump Trading Track)
-- **Citadel Securities Europe Spring Terminal Invitational** — Top 10
+- **Citadel | Citadel Securities Europe Spring Terminal Invitational** — Top 10
 - **LeedsHack 2026** — Best Use of Solana
 - **HackLondon 2026** — Best Use of MongoDB Atlas
 - **Re-Think and Re-Design Hackathon** — Overall 1st Position
