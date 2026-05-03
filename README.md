@@ -31,7 +31,7 @@
 * Concurrency
 * System Design
 * Design Patterns
-* Operating System knowledge
+* Operating System
 * Computer Architecture
-* Networking concepts
-* Leetcode (data structures & algorithms)
+* Computer Networking
+* Leetcode (Data Structures & Algorithms)
