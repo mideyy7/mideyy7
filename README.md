@@ -1,8 +1,8 @@
 <h1 align="center">Ayomide Ojediran</h1>
-<p align="center">
+<p align="center" style="margin:0;">
   1st Year Computer Science Student @ The University of Manchester
 </p>
-<p align="center"> 
+<p align="center" style="margin:0;"> 
  Incoming Software Engineer intern @ Compare The Market(2026)
 </p>
 
