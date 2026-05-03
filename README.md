@@ -1,6 +1,7 @@
 <h1 align="center">Ayomide Ojediran</h1>
 <p align="center">
-  1st Year Computer Science Student at The University of Manchester
+  1st Year Computer Science Student @ The University of Manchester
+  Incoing Software Engineer intern @ Compare The Market(2026)
 </p>
 
 
@@ -8,8 +9,7 @@
 
 ## Experience
 - **Quantitative Developer, Quants@UOM (Mar 2026–Present)**  
-  Built core components of a financial exchange in C++, PostgreSQL, Docker.  
-  Improved throughput **4.2x (1,055 → 4,395 req/s)** and cut P99 latency **79% (121ms → 25ms)** by moving settlement state in-memory and redesigning locking/queues.
+  Building core components of Manex, a financial exchange system for university students.
 
 
 ## Achievements
