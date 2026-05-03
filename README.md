@@ -3,11 +3,6 @@
   1st Year Computer Science Student at The University of Manchester
 </p>
 
-<p align="center">
-  <a href="mailto:oj.ayomide1@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/mideyy7">LinkedIn</a> •
-  <a href="https://github.com/mideyy7">GitHub</a>
-</p>
 
 ---
 
@@ -16,14 +11,6 @@
   Built core components of a financial exchange in C++, PostgreSQL, Docker.  
   Improved throughput **4.2x (1,055 → 4,395 req/s)** and cut P99 latency **79% (121ms → 25ms)** by moving settlement state in-memory and redesigning locking/queues.
 
-## Featured Projects
-- **Formula One Telemetry Simulator**
-  Multi-threaded telemetry simulation engine with ring buffers and discrete-time modeling.  
-  Processes **20 concurrent drivers at 50Hz** using producer-consumer concurrency primitives.
-
-- **Bitcoin Algorithmic Trading Bot**  
-  Real-time Binance tick streaming with Python asyncio + C++ execution engine via ZeroMQ.  
-  Implemented MA crossover + RSI confirmation strategy with **500+ simulated trades** and live dashboarding.
 
 ## Achievements
 - **Imperial College Algothon 2026** — 1st Place (Jump Trading Track)
