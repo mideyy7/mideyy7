@@ -26,12 +26,13 @@
 `C/C++` `Python` `Java` `JavaScript` `PostgreSQL` `Docker` `Linux` `Bash` `Git` `Verilog` `Assembly`
 
 ## Current Focus
-* Deep C++ STL proficiency
+* C++ STL
+* System Design
+* Design patterns
+* Leetcode (Data Structures & Algorithms)
+* Operating System
 * Lock-free structures
 * Concurrency
-* System Design
-* Design Patterns
-* Operating System
 * Computer Architecture
 * Computer Networking
-* Leetcode (Data Structures & Algorithms)
+  
