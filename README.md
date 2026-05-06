@@ -22,7 +22,7 @@
 - **Re-Think and Re-Design Hackathon** — Overall 1st Position
 - **Google Developer Group Build With AI Hackathon** — Best Workflow Innovation
 
-## Stack
+## Technical Skills
 `C/C++` `Python` `Java` `JavaScript` `PostgreSQL` `Docker` `Linux` `Bash` `Git` `Verilog` `Assembly`
 
 ## Current Focus
