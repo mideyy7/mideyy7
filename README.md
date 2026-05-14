@@ -19,7 +19,7 @@
 - **Citadel | Citadel Securities Europe Spring Terminal Invitational** — Top 10
 - **LeedsHack 2026** — Best Use of Solana
 - **HackLondon 2026** — Best Use of MongoDB Atlas
-- **Re-Think and Re-Design Hackathon** — Overall 1st Position
+- **Re-Think and Re-Design Hackathon** — Overall 1st Place
 - **Google Developer Group Build With AI Hackathon** — Best Workflow Innovation
 
 ## Technical Skills
@@ -28,7 +28,7 @@
 ## Current Focus
 * C++ STL
 * System Design
-* Design patterns
+* Design Patterns
 * Leetcode (Data Structures & Algorithms)
 * Operating System
 * Lock-free structures
