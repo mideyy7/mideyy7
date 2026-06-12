@@ -1,9 +1,9 @@
 <h1 align="center">Ayomide Ojediran</h1>
 
 <div align="center">
-  1st Year Computer Science Student @ The University of Manchester
+  Computer Science Student @ The University of Manchester
   <br>
-  Incoming Software Engineer Intern @ Compare The Market (2026)
+  Software Engineer Intern @ Compare The Market (2026)
 </div>
 
 
