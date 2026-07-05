@@ -3,7 +3,7 @@
 <div align="center">
   Computer Science Student @ The University of Manchester
   <br>
-  Software Engineer Intern @ Compare The Market (2026)
+  Software Engineer Intern @ Compare The Market
 </div>
 
 
