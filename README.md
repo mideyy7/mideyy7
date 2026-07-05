@@ -21,7 +21,7 @@
 - **HackLondon 2026** — Best Use of MongoDB Atlas
 - **Re-Think and Re-Design Hackathon** — Overall 1st Place
 - **Google Developer Group Build With AI Hackathon** — Best Workflow Innovation
-- **2X Silver @ 2023 & 2024 UKMT Senior Mathematical Challenge
+- **Won 2X Silver @ 2023 & 2024 UKMT Senior Mathematical Challenge
 
 ## Technical Skills
 `C/C++` `Python` `Java` `JavaScript` `PostgreSQL` `Docker` `Linux` `Bash` `Git` `Verilog` `Assembly`
