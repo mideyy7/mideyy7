@@ -17,6 +17,7 @@
 ## Achievements
 - **Imperial College Algothon 2026** — 1st Place (Jump Trading Track)
 - **Citadel | Citadel Securities Europe Spring Terminal Invitational** — Top 10
+- **Compare The Market | Claude Plug-in Hackathon = 1st Place
 - **LeedsHack 2026** — Best Use of Solana
 - **HackLondon 2026** — Best Use of MongoDB Atlas
 - **Re-Think and Re-Design Hackathon** — Overall 1st Place
