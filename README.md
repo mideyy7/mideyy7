@@ -21,6 +21,8 @@
 - **LeedsHack 2026** — Best Use of Solana
 - **HackLondon 2026** — Best Use of MongoDB Atlas
 - **Re-Think and Re-Design Hackathon** — Overall 1st Place
+- **CTM Claude Plugin Hackathon** — Overall 1st Place
+- **CTM Optimising AI Workflow Hackathon** — Most Ambitious Award
 - **Google Developer Group Build With AI Hackathon** — Best Workflow Innovation
 - **UKMT Senior Mathematical Challenge** - 2X Silver @ 2023 & 2024 
 
