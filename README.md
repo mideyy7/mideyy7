@@ -2,8 +2,6 @@
 
 <div align="center">
   Computer Science Student @ The University of Manchester
-  <br>
-  Software Engineer Intern @ Compare The Market
 </div>
 
 
@@ -12,6 +10,8 @@
 ## Experience
 - **Quantitative Developer, Quants@UOM (Mar 2026–Present)**  
   Building core components of Manex, a financial exchange system for university students.
+- **Software Engineer Intern, Compare The Market (July 2026–Sept 2026)**  
+  Contributed to the development of Comparison Orchestrator on the Applied AI team.
 
 
 ## Achievements
