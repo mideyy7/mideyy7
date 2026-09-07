@@ -30,8 +30,7 @@
 
 ## Current Focus
 * C++ STL
-* System Design
-* Design Patterns
+* Distributed Systems
 * Leetcode (Data Structures & Algorithms)
 * Operating System
 * Lock-free structures
