@@ -26,7 +26,7 @@
 - **UKMT Senior Mathematical Challenge** - 2X Silver @ 2023 & 2024 
 
 ## Technical Skills
-`C/C++` `Python` `Java` `JavaScript` `PostgreSQL` `Docker` `Linux` `Bash` `Git` `Verilog` `Assembly`
+`C/C++` `Python` `Java` `JavaScript` `Kotlin` `PostgreSQL` `Docker` `Linux` `Bash` `Git` `Verilog` `RISCV` `Assembly`
 
 ## Current Focus
 * C++ STL
