@@ -8,7 +8,7 @@
 ---
 
 ## Experience
-- **Quantitative Developer, Quants@UOM (Mar 2026–Present)**  
+- **Quantitative Developer, Quants@UOM (Mar 2026–Oct 2026)**  
   Building core components of Manex, a financial exchange system for university students.
 - **Software Engineer Intern, Compare The Market (July 2026–Sept 2026)**  
   Contributed to the development of Comparison Orchestrator on the Applied AI team.
