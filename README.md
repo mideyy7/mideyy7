@@ -58,6 +58,6 @@ An algorithm for Terminal, a tower-defence strategy game, played head-to-head ag
 
 ## Technical Skills
 
-**Languages & Tools:** `C/C++` `Kotlin` `Python` `Java` `TypeScript` `Bash` `Verilog` `RISC-V Assembly` `Git` `CMake` `Docker` `PostgreSQL` `Gradle`
+**Languages & Tools:** `C/C++` `Kotlin` `Python` `Java` `TypeScript` `Verilog` `RISC-V Assembly` `Git` `CMake` `Docker` `PostgreSQL`
 
-**Systems & ML:** `Linux` `Sockets/TCP` `Android NDK/JNI` `Jetpack Compose` `Vulkan` `GLSL` `PyTorch` `LiteRT`
+**Systems & ML:** `Bash` `Gradle` `Linux` `Sockets/TCP` `Android NDK/JNI` `Jetpack Compose` `Vulkan` `GLSL` `PyTorch` `LiteRT`
